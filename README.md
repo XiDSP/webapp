@@ -32,7 +32,7 @@ Afterwards:
 
 - Clone the repository:
 ```shell
-git clone git@github.com:beam-js/webapp.git
+git clone git@github.com:beamdsp/webapp.git
 cd webapp
 ```
 - Install the dependencies:
@@ -47,7 +47,7 @@ npm run dev
 
 Screenshot:
 
-![](https://raw.githubusercontent.com/beam-js/beam-js.github.io/refs/heads/main/screenshot.png)
+![](https://raw.githubusercontent.com/beamdsp/beamdsp.github.io/refs/heads/main/screenshot.png)
 <!-- ## Demo
 The following video shows the design of a low-pass filter:
 ![](https://raw.githubusercontent.com/alavifazel/demo/refs/heads/main/animation-smaller.gif) -->
