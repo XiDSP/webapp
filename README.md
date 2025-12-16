@@ -1,8 +1,8 @@
-# Cube web app
+# AvaDSP web app
 An interactive digital signal processing (DSP) application for designing filters, estimating power spectral density, generating waveforms, and more.
 
 ## Filter Design
-The application supports designing digital filters using several methods:
+The application supports designing digital filters using the following methods:
 
 - Visually placing poles and zeros on the Z-plane
 - Windowing methods for FIR filter design
