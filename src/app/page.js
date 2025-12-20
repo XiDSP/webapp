@@ -7,6 +7,7 @@ import { LeastSqaureLinearPhaseFIRDesign } from './components/AppFrame/LeastSqua
 import { Periodogram } from './components/AppFrame/Periodogram/Periodogram';
 import { Prompt } from './components/AppFrame/Prompt/Prompt';
 import { WelchsEstimate } from './components/AppFrame/WelchsEstimate/WelchsEstimate';
+import { Simulation } from './components/AppFrame/Simulation/Simulation';
 
 export default function Home() {
   const items = [
@@ -99,7 +100,7 @@ export default function Home() {
 
       </aside>
       {/* Main app */}
-      <main className="absolute left-[250px] h-full overflow-y-auto flex z-10">
+      <main className="absolute left-[230px] w-[calc(100vw-230px)] h-full overflow-y-auto flex z-10">
         {addComponent()}
       </main>
   </div>
